@@ -1,0 +1,36 @@
+idea:
+- Add/Tick tasks (1)
+- Grocery Add/ Remove (2)
+- Simple game (3)
+-
+(1)
+Functions:
+- UI
+( maybe use the user name o say hi or name)
+- Adding task (maybe add a set of available emergency)
+- Ranking emergencies (ranking / colors)
+- Ticking Done task
+- Progress Bar?
+
+Obj:
+Create a UI
++ Adding Image
++ Ableling res scaling
+Button funcs:
++ Adding trigger buttons that active the logic
+LOGICS:
+- Main Loops that cointain and update
+- adding task (adding from name, emergencies)
+- Delete tasks with button that is assigned with the task
+
+UI:
+- Check box 
+- Add_Entry_Bar button
+
+21/9: 
+okay so now i know i can group widgets into a frame
+tomorrow:
+- Construct a progress Bar
+- Construct a checkbox
+- Group delete_button, entry, tickbox into 1 distinc frame
+- Learn about positioning
